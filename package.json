@@ -1,0 +1,19 @@
+{
+  "name": "node-jt400-example",
+  "version": "1.0.0",
+  "description": "Un ejemplo de cómo usar node-jt400 para conectarse a una base de datos IBM i",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Patrick1982/node-jt400-example.git"
+  },
+  "author": "Patrick Villagrán",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Patrick1982/node-jt400-example/issues"
+  },
+  "homepage": "https://github.com/Patrick1982/node-jt400-example#readme"
+}
